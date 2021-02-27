@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sirob-ig/tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/sirob-ig/tic-tac-toe#readme"
+  "homepage": "https://github.com/sirob-ig/tic-tac-toe#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
 }
